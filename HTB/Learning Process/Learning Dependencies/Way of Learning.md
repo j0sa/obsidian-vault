@@ -6,3 +6,5 @@ This art of thinking, called "Outside the box," is an essential part of the "hac
 > A problem is an emotional state. Without emotions, it is just a situation.
 
 In other words, frustration and confusion come with the point of view we are looking at. The learning process is not just a theoretical and practical part. It is also our learning process and progress that largely depends on our **emotional state**. If we feel good and we know we will reach our goal, we will be successful.
+
+Another essential part that makes you successful is that you know your goal. If we do not have a goal, we will stop at the first obstacle. Without a goal, we will be disoriented moving from one topic to another.
