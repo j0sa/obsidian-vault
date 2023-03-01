@@ -1,0 +1,1 @@
+The Hacker's way of think is called "Outside the Box."

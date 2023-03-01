@@ -1,0 +1,7 @@
+Besides the fact that genetics influence our thinking processes, talent itself is not innate—the ability to solve particular problems with excellence results from thought processes developed primarily in early childhood. Children can develop such a talent much more effortlessly than adults. This is because they have not yet developed complicated thinking and do not have complex hurdles to overcome. In other words, children typically do not overcomplicate things like adults do.
+
+There is no precise definition of talent.
+
+Talents, or rather the ability to solve specific problems and challenges with high efficiency, arise from the **constant** or **persistent** confrontation with the corresponding situations and the problems that arise. However, it does not have to be precisely the one situation to develop talent but rather the thinking pattern to solve problems. The confrontation expands the so-called comfort zone and repertoire, which allows us to think more easily and tackle the challenge or problem. In essence, talent is a trained and adapted thought process and the associated thought patterns for specific fields and situations.
+
+However, we know that we have a good influence on our thought processes and thought patterns and can influence them according to our decisions. This means we can develop and train such talent for any field we want.

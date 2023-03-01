@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5358c23c75f393a",
+        "id": "7cf29315939c31ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5f8162278fdeb66b",
+            "id": "3320b6d9d0bc7221",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f8162278fdeb66b",
-  "lastOpenFiles": []
+  "active": "3320b6d9d0bc7221",
+  "lastOpenFiles": [
+    "HTB/Learning Process/Learning Overview/Documentation.md",
+    "HTB/Learning Process/The Process/Focus.md",
+    "HTB/Learning Process/Mindset/Way of Thinking.md",
+    "HTB/Learning Process/Mindset/Think Outside the Box.md",
+    "HTB/Learning Process/Mindset/Occam's Razor.md",
+    "HTB/Learning Process/Mindset/Talent.md",
+    "HTB/Learning Process/Learning Dependencies/Way of Learning.md",
+    "HTB/Learning Process/Learning Dependencies/Learning Efficiency.md",
+    "HTB/Learning Process/Learning Dependencies/Learning Types.md",
+    "HTB/Learning Process/Learning Dependencies/The Brain.md",
+    "HTB/Learning Process/Learning Dependencies/The Will.md",
+    "HTB/Learning Process/Learning Dependencies/The Goal.md",
+    "HTB/Learning Process/Learning Overview/Organisation.md",
+    "HTB/Learning Process/Learning Dependencies/Decision Making.md",
+    "HTB/Learning Process/The Process.md",
+    "HTB/Learning Process/Mindset.md",
+    "HTB/Learning Process/The Process",
+    "HTB/Learning Process/Mindset",
+    "HTB/Learning Process/Learning Dependencies",
+    "HTB/Learning Process/Learning Overview.md",
+    "HTB/Learning Process/Learning Dependencies.md",
+    "HTB/Learning Process/Learning Overview",
+    "HTB/Learning Process",
+    "HTB"
+  ]
 }
